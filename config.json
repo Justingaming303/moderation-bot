@@ -1,5 +1,5 @@
 {
-    
+    "prefix": "!",
     "masterRoles" : "",
     "token": "TOKEN_HERE",
     "logChannel": ""
