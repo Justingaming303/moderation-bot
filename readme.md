@@ -1,25 +1,23 @@
 ### Discontinued, bugs and errors only
 
-### Discord Moderation Bot
----
+# Discord Moderation Bot
+
 This is a basic moderation bot with all commands you need for your server.
 
 
-### Contact Me:
----
+# Contact Me:
+
 - [✉justinwilliamtjahyono@gmail.com](mailto:justinwilliamtjahyono@gmail.com)
 - Discord: bangjo#9578
 - Instagram: [@tjahyonojustin](https://www.instagram.com/tjahyonojustin/)
 
 
-### Build
----
+# Build
 - Node: v14.17.5
 - discord.js: v12.5.3
-- ms: v2.1.3
 
-### Installation 
----
+# Installation 
+
 To get node, you must install it locally to your computer. Find the download link [here](https://nodejs.org/en/). You may install v14.0.0 or higher for this bot to work.
 
 
@@ -29,17 +27,9 @@ To install discord.js, locally to your folder, since this build is discord.js v1
 
 npm i discord.js@12.5.3
 
----
-
-Finally, to install ms locally to your folder. Run the following command to your terminal
-
 ```
+# Features
 
-npm i ms@2.1.3
-
-
-### Features
----
 **Default Prefix: (customizable in `config.json`)** `!`
 
 - Logs moderation actions (eg. mute, ban, kick)
@@ -52,8 +42,5 @@ npm i ms@2.1.3
 - Userinfo (Displays user stats)
 
 
-### Bugs
----
-
-
+# Bugs
 Feel free to contact me anytime if there are any bugs or errors you encounter. 
